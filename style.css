@@ -2,5 +2,17 @@
     margin: 0;
     padding: 0;
     font-family: "Arial";
-    color: red;
+    color: #333;
+    text-align: left;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#container h1{
+    font-size: 70px;
 }
